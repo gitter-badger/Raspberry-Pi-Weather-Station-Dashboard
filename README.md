@@ -1,6 +1,8 @@
 Raspberry Pi Weather Station Dashboard
 ======================================
 
+[![Join the chat at https://gitter.im/JoshuaCarroll/Raspberry-Pi-Weather-Station-Dashboard](https://badges.gitter.im/JoshuaCarroll/Raspberry-Pi-Weather-Station-Dashboard.svg)](https://gitter.im/JoshuaCarroll/Raspberry-Pi-Weather-Station-Dashboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 This project will provide you with a graphical dashboard of the current weather observation based on the Raspberry Pi Weather Station data.
 
